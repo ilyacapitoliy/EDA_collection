@@ -1,2 +1,2 @@
-# movies_data
-portfolio project
+# Exploratory Data Analysis
+examples
